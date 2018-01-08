@@ -1,2 +1,2 @@
 # Injury-Data
-Profootballreference.com player injury web scraper. Used in ML pipeline for draftkings predictions.
+pro-football-reference.com player injury web scraper. Used in ML pipeline for draftkings predictions.
